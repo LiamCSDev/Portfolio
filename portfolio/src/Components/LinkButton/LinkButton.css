@@ -1,0 +1,8 @@
+.LinkButton {
+    background-color: white;
+    color: blue;
+    text-decoration: underline;
+    cursor:pointer;
+    border: none;
+    outline-color: transparent;
+}
